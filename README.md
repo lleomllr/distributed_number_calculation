@@ -6,4 +6,3 @@ A client program is used to monitor the system.
 
 The programme works well but is slow to run. There is still room for optimisation, particularly in file management. 
 
-Translated with www.DeepL.com/Translator (free version)
